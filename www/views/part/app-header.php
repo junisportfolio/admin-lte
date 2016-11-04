@@ -80,5 +80,5 @@ $config["imageDir"] = $config["resourcesDir"]  . "/images";
 <script src="<?php echo $config["resourcesDir"]; ?>/js/script.min.js"></script>
 <?php } ?>
 </head>
-<body class="<?php echo getBodyClass($pagePath, $bodyClass); ?>">
+<body class="<?php echo getBodyClass($pagePath, $bodyClass); ?> hold-transition skin-red sidebar-mini">
 <!-- //App Header.html -->
