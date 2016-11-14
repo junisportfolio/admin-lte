@@ -1,7 +1,6 @@
+	</div>
+	<!-- /.main-container -->
 
-<?php if(getDepthId($pagePath, 0) == "index"){ ?>
-
-<?php }else{ ?>
 	<!-- /.content-wrapper -->
 	<footer class="main-footer">
 		<div class="pull-right hidden-xs">
@@ -24,6 +23,5 @@
 	<!-- Add the sidebar's background. This div must be placed
 		 immediately after the control sidebar -->
 	<div class="control-sidebar-bg"></div>
-<?php } ?>
 </div>
 <!-- ./wrapper -->
